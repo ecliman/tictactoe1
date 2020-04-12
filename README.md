@@ -1,4 +1,4 @@
-# tictactoe1
+# my first project ever tictactoe
 import java.util.Arrays;
 import java.util.Scanner; 
 
